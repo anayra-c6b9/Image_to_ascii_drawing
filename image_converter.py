@@ -1,6 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 import PIL.Image
 
 #ascii character used to build the output text
